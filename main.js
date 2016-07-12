@@ -6,5 +6,5 @@ function handler(request,response) {
     response.end('testing node js\n');
 }
 var server=http.createServer(handler);
-server.listen(8081);
+server.listen(3030);
 console.log('Server running at http://127.0.0.1:3030/');
