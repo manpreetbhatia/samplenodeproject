@@ -1,7 +1,7 @@
 var http = require('http');
 
 function handler(request,response) {
-    console.log('Requet received');
+    console.log('Request received');
     response.end("Hello World!");
 
 }
