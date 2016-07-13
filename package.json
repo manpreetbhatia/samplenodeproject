@@ -4,7 +4,7 @@
   "description": "",
   "main": "helloworld.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test/test"
   },
   "author": "",
   "license": "ISC",
